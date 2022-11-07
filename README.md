@@ -1,1 +1,1 @@
-# Vaja2-ADC-continuos-conversion-STM32F
+# Vaja2-ADC-continuos-conversion-STM32F0
